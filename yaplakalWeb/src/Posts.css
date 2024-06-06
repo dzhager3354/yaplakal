@@ -1,0 +1,19 @@
+.post {
+    border-radius: 3px;
+    border-color: darkslategray;
+    margin: 10px 0px;
+}
+
+.post__nickname {
+    font-size: 17px;
+}
+
+.filter-panel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-panel > * {
+    margin: 0px 5px;
+}

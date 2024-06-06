@@ -1,0 +1,8 @@
+.original-post {
+    display: flex;
+    flex-direction: column;
+}
+
+.post-container > * {
+    margin: 5px 0;
+}

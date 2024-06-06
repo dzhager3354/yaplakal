@@ -1,0 +1,9 @@
+.auth {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.mar {
+    margin: 5px 0;
+}
